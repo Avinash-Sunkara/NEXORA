@@ -16,6 +16,10 @@
   <img src="https://img.shields.io/badge/Status-Work%20in%20Progress-orange" alt="Work in progress" />
 </p>
 
+## Live Website
+
+Visit the deployed site: [https://avinash-sunkara.github.io/NEXORA/](https://avinash-sunkara.github.io/NEXORA/)
+
 ## About the Project
 
 **NEXORA Technologies** is a fictional technology company website concept. The website presents a modern digital engineering brand offering services across artificial intelligence, cloud infrastructure, full-stack software development, cybersecurity, digital transformation and enterprise solutions.
