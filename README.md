@@ -1,7 +1,7 @@
 # NEXORA Technologies — Corporate Website
 
 <p align="center">
-  <img src="assets/nexora-home.png" alt="NEXORA Technologies homepage preview" width="100%" />
+  <img src="nexora-home.png" alt="NEXORA Technologies homepage preview" width="100%" />
 </p>
 
 <p align="center">
@@ -30,19 +30,19 @@ The main goal of this project was to build an engaging, multi-section corporate 
 
 The landing page features a dark futuristic hero section, animated particle network, navigation, and calls to action.
 
-![NEXORA home page](assets/nexora-home.png)
+![NEXORA home page](nexora-home.png)
 
 ### 2. Services Section
 
 The services area introduces the six technology disciplines represented in the website concept.
 
-![NEXORA services section](assets/nexora-services.png)
+![NEXORA services section](nexora-services.png)
 
 ### 3. Our Work / Case Studies
 
 The work section displays fictional sample case studies with category filters, search and additional case-study details.
 
-![NEXORA work section](assets/nexora-work.png)
+![NEXORA work section](nexora-work.png)
 
 ## Features
 
@@ -92,15 +92,13 @@ You can run this project locally without installing any dependencies.
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Avinash-Sunkara/NEXORA.git
 ```
-
-Replace `YOUR_GITHUB_REPOSITORY_URL` with your repository's actual URL.
 
 ### 2. Open the project folder
 
 ```bash
-cd your-project-folder
+cd NEXORA
 ```
 
 ### 3. Run the website
@@ -117,17 +115,16 @@ No build command is required.
 ## Project Structure
 
 ```text
-NEXORA-Technologies/
+NEXORA/
 │
 ├── index.html
 ├── README.md
-└── assets/
-    ├── nexora-home.png
-    ├── nexora-services.png
-    └── nexora-work.png
+├── nexora-home.png
+├── nexora-services.png
+└── nexora-work.png
 ```
 
-Keep the `assets` folder alongside `README.md` when uploading the project to GitHub so that the screenshots appear correctly in the README.
+Keep the screenshot files alongside `README.md` when uploading the project to GitHub so that they appear correctly in the README.
 
 ## Current Limitations
 
